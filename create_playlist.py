@@ -189,7 +189,7 @@ if channels_data:
                 logo = channel.get('image')
                 f.write(f'#EXTINF:-1 tvg-id="{code}" tvg-name="{name}" tvg-logo="{logo}",{name}\n')
                 f.write(f'#EXTVLCOPT:http-referrer={referer_url}\n')
-                f.write(f"{m3u8_url}\n")
+                f.write(f"{m3u8_url}|x-forwarded-for:77.238.79.121\n")
 
     print("Playlist created successfully.")
 else:
