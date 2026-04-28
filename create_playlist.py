@@ -188,6 +188,7 @@ if channels_data:
                 code = channel.get('code')
                 logo = channel.get('image')
                 f.write(f'#EXTINF:-1 tvg-id="{code}" tvg-name="{name}" tvg-logo="{logo}",{name}\n')
+                f.write('#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\n')
                 f.write('#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/\n')
                 f.write('#EXTVLCOPT:http-origin=https://cdnlivetv.tv/\n')
                 f.write(f"{m3u8_url}|x-forwarded-for:77.238.79.121\n")
