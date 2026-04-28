@@ -142,7 +142,7 @@ def get_online_channels(referer):
         "Referer": referer
     }
     try:
-        response = requests.get("https://api.cdn-live.tv/api/v1/channels/?user=cdnlivetv&plan=free", headers=headers)
+        response = requests.get("https://api.cdnlivetv.tv/api/v1/channels/?user=cdnlivetv&plan=free", headers=headers)
         response.raise_for_status()
         all_channels = response.json().get('channels', [])
         online_channels = [ch for ch in all_channels if ch.get('status') == 'online']
