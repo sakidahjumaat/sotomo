@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share/raw/master/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="us" tvg-name="Astro Cricket" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-cricket.webp",Astro Cricket
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=astro+cricket&code=us&user=cdnlivetv&plan=free
 https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=fe20fc378c013ce678e7fd0f744e80860ae8f494494b30455e992011e88c700e.1777364441.9dae9394699b15e98dc55f784e885625.cc96dc63e40f5fb7f520f8891c50cbe1.47050a8e70d127ad562b3bd4e61d5713&signature=bb8558f6a17cd2c4bebc6b181a24c825cda416241de1345c4cea080478d4547a|x-forwarded-for:77.238.79.121
 #EXTINF:-1 tvg-id="us" tvg-name="Astro Football" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-football.webp",Astro Football
 #EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
