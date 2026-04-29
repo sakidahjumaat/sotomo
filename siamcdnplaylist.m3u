@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=85a61f407ddeb070b2fe9c820b2b470676bbd047df90f53f0e829e6e4fa219d0.1777459693.b91c78ce20b9d5f78db34a7558d17670.53f0ea6f979171ebc1e7b0519eac8373.e37c6a980216fdf0e842552b72d9b2b7&signature=fcd5a1c150e36bff0ac86c2d1da6a3bf35631f567f27a10f031429ef6734b97a|x-forwarded-for:77.238.79.121
+#https://edge.cdnlivetv.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=85a61f407ddeb070b2fe9c820b2b470676bbd047df90f53f0e829e6e4fa219d0.1777459693.b91c78ce20b9d5f78db34a7558d17670.53f0ea6f979171ebc1e7b0519eac8373.e37c6a980216fdf0e842552b72d9b2b7&signature=fcd5a1c150e36bff0ac86c2d1da6a3bf35631f567f27a10f031429ef6734b97a|x-forwarded-for:77.238.79.121
 #EXTINF:-1 tvg-id="us" tvg-name="Astro Football" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-football.webp",Astro Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
