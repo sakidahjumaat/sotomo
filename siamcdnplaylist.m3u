@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/
-https://edge.cdnlivetv.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=2805895fa6e18f635ba62665743cfaf192e538eaae51f1e5191424d7411645c5.1777459694.31b517b2f67af287d0cb17efc593d1ad.7b35f02283fae85aef1c3d043705c17a.935802539a89695112d4dc53accfcc04&signature=1c408bb469850957ce6fd950636df3a872b8ee6295b98375671fd71f53f43157|x-forwarded-for:77.238.79.121
+#https://edge.cdnlivetv.ru/secure/api/v1/us-astro-football/playlist.m3u8?token=2805895fa6e18f635ba62665743cfaf192e538eaae51f1e5191424d7411645c5.1777459694.31b517b2f67af287d0cb17efc593d1ad.7b35f02283fae85aef1c3d043705c17a.935802539a89695112d4dc53accfcc04&signature=1c408bb469850957ce6fd950636df3a872b8ee6295b98375671fd71f53f43157|x-forwarded-for:77.238.79.121
 #EXTINF:-1 tvg-id="us" tvg-name="Astro Premier League" tvg-logo="https://api.cdnlivetv.tv/api/v1/channels/images6318/united-states/astro-premier-league.webp",Astro Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/
